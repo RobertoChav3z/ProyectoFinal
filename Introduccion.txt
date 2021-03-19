@@ -4,17 +4,6 @@ Luminocidad
 Temperatura
 Dust Sensor
 
-Con el Sensor de luminocidad nos puede ayudar a ver si en algun momento hubo
-alguna tormenta de arena ya que eso levantaria polvo y se volveria
-un poco más obscuro. Tambien para ver en que momento del dia hay más polvo.
-
-Con el sensor de temperatura es para medir la temperatura dependiendo
-de cuanto polvo hay en el medio ambiente y con eso podemos ver que tanto
-afecta la calidad del aire a la temperatura.
-
-Con el sensor de polvo queremos ver que tan buena es la calidad del aire
-y si empeora o mejora la calidad del aire en ciertas horas del dia.
-
 Con este proyecto lo que queremos es poder ver que tan buena o mala es
 la calidad del aire en algun lado. A lo que queremos llegar con esto es poder
 ver como afectan los gases de efecto invernadero y para monitorear el
