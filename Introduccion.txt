@@ -1,0 +1,10 @@
+En el proyecto que tenemos pensado para el medio ambiente utilizaremos
+tres sensores:
+Luminocidad
+Temperatura
+Dust Sensor
+
+Con este proyecto lo que queremos es poder ver que tan buena o mala es
+la calidad del aire en algun lado. A lo que queremos llegar con esto es poder
+ver como afectan los gases de efecto invernadero y para monitorear el
+cambio climatico en un area especifica.
